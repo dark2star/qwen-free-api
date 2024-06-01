@@ -7,7 +7,7 @@ import logger from '@/lib/logger.ts';
 
 export default {
 
-    prefix: '/token',
+    prefix: '/api/token',
 
     post: {
 
