@@ -2,7 +2,7 @@ import _ from 'lodash';
 
 export default {
 
-    prefix: '/v1',
+    prefix: '/api/v1',
 
     get: {
         '/models': async () => {
